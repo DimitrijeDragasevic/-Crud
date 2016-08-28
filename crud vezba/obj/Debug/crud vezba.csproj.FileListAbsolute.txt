@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\obj\Debug\crud_vezba.frmMain.resources
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\obj\Debug\crud_vezba.Properties.Resources.resources
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\obj\Debug\crud vezba.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\bin\Debug\sample.mdf
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\bin\Debug\sample_log.ldf
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\bin\Debug\crud vezba.exe.config
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\bin\Debug\crud vezba.exe
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\bin\Debug\crud vezba.pdb
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\obj\Debug\crud vezba.exe
+C:\Users\Lenovo\Source\Repos\Projekatminioop\Mala-vezba\crud vezba\crud vezba\obj\Debug\crud vezba.pdb
